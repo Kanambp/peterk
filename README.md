@@ -14,10 +14,11 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/itsajaygaur/tokio-wabot
-cd tokio-wabot
+git clone https://github.com/Kanambp/peterk
+cd peterk
 npm install
 npm update
+npm start
 ```
 
 ## INSTALL ON TERMUX WITH UBUNTU
@@ -168,7 +169,7 @@ Author / Creator | Editor
 
 Don't forget to give it a star 🌟
 
-Best regards: tokio
+Best regards: kanambo❤️ and Rael 💕
 
 
 
